@@ -1,4 +1,15 @@
 #Topic :Variables and Data Types
+
+
+
+
+
+
+
+
+
+
+
 #In Python we don't need to declare variables with data types-we can directly assign values to variables and Python will automatically detect the data type
 
 #Variable =A container for a value (string, integer, float, boolean, etc.). A variable behaves as if it is the value that it contains.
