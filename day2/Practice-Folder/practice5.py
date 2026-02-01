@@ -7,7 +7,7 @@ while count<6:
     print(count)
     count+=1
     
-    
+     
 name=input("Enter your name:  ")
 
 while name== "":
